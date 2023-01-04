@@ -23,7 +23,7 @@ Passionate about people, my main goal in life has always been to make life easie
 </div>
 
 <!-- Languages -->
-<div style="display: inline_block; text-align: center">
+<div align="center">
   <br>
   <img align="center" alt="Typescript" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node.js" title="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
