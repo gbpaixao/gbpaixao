@@ -9,7 +9,7 @@ Senior Full-stack developer at @Maxxidata.
 Passionate about people, my main goal in life has always been to make life easier for others. Thanks to programming, I have been able to do that multiple times.
 
 <!-- GitHub Stats made by: https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
+<div align="center" style="display: flex">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbpaixao&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" />
   </a>
