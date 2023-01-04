@@ -11,10 +11,10 @@ Passionate about people, my main goal in life has always been to make life easie
 <!-- GitHub Stats made by: https://github.com/anuraghazra/github-readme-stats -->
 <div align="center" style="display: flex">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbpaixao&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=gbpaixao&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" />
   </a>
   <a href="https://github.com/gbpaixao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbpaixao&exclude_repo=Creating-Programming-Language-with-SableCC&layout=compact" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbpaixao&exclude_repo=Creating-Programming-Language-with-SableCC&layout=compact" />
   </a>
 
   <!-- If I'm ever too proud of a repo 
