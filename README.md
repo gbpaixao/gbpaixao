@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavobezerrapaixao)](https://www.linkedin.com/in/gustavobezerrapaixao)
 
-Senior Full-stack developer at @Maxxidata, working at @Bayer.
+Software Engineer at @Maxxidata, working at @Bayer.
 
 Passionate about people, my main goal in life has always been to make life easier for others. Thanks to programming, I have been able to do that multiple times.
 
