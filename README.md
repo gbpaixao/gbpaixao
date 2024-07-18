@@ -8,18 +8,6 @@ Software Engineer at @Maxxidata, working at @Bayer.
 
 Passionate about people, my main goal in life has always been to make life easier for others. Thanks to programming, I have been able to do that multiple times.
 
-<!-- GitHub Stats made by: https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=gbpaixao&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" />
-  
-  <!-- If I ever feel the need of having Languages on my README  -->
-  <!--   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbpaixao&exclude_repo=Creating-Programming-Language-with-SableCC&layout=compact" /> -->
-
-  <!-- If I'm ever too proud of a repo 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  -->
-</div>
-
 <!-- Languages -->
 <div align="center">
   <br>
@@ -28,5 +16,6 @@ Passionate about people, my main goal in life has always been to make life easie
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <br>
 </div>
